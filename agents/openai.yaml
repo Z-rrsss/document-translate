@@ -1,0 +1,4 @@
+interface:
+  display_name: "Document translate"
+  short_description: "批量翻译文件与压缩包，制作交付版并可视化标注问题"
+  default_prompt: "使用 $document-translate 处理这批文件，按规则制作中英对照或英文交付版本，并可视化标出需我判断的问题。"
